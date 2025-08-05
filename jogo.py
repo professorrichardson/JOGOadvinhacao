@@ -1,4 +1,5 @@
 import random
+
 print("###############################")
 print("#  Jogo de adivinhação        #")
 print("#     Richardson              #")
@@ -52,6 +53,40 @@ for rodada in range (1, totalTentativas +1):
         pontos = pontos - pontosPerdidos
             
 print("Fim de jogo ! O número era ",numeroSecreto)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
